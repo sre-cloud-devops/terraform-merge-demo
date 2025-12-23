@@ -1,0 +1,5 @@
+region = "ap-south-1"
+vpc_cidr_block = "192.168.0.0/16"
+publicsubnet_cidr_block = "192.168.1.0/24"
+privatesubnet_cidr_block = "192.168.2.0/24"
+publicroutetable_routes_cidr_block = "0.0.0.0/0"
